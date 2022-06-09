@@ -1,0 +1,15 @@
+/Users/davidgarcia/Projects/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.csproj.AssemblyReference.cache
+/Users/davidgarcia/Projects/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidgarcia/Projects/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.AssemblyInfoInputs.cache
+/Users/davidgarcia/Projects/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.AssemblyInfo.cs
+/Users/davidgarcia/Projects/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.csproj.CoreCompileInputs.cache
+/Users/davidgarcia/Projects/AccountTest/AccountTest/bin/Debug/net6.0/AccountTest
+/Users/davidgarcia/Projects/AccountTest/AccountTest/bin/Debug/net6.0/AccountTest.deps.json
+/Users/davidgarcia/Projects/AccountTest/AccountTest/bin/Debug/net6.0/AccountTest.runtimeconfig.json
+/Users/davidgarcia/Projects/AccountTest/AccountTest/bin/Debug/net6.0/AccountTest.dll
+/Users/davidgarcia/Projects/AccountTest/AccountTest/bin/Debug/net6.0/AccountTest.pdb
+/Users/davidgarcia/Projects/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.dll
+/Users/davidgarcia/Projects/AccountTest/AccountTest/obj/Debug/net6.0/refint/AccountTest.dll
+/Users/davidgarcia/Projects/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.pdb
+/Users/davidgarcia/Projects/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.genruntimeconfig.cache
+/Users/davidgarcia/Projects/AccountTest/AccountTest/obj/Debug/net6.0/ref/AccountTest.dll
